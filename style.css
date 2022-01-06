@@ -1,0 +1,177 @@
+body{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0%;
+}
+.color{
+    color:rgba(255, 115, 0, 0.959);
+}
+h1{
+    font-size: 70px;
+    margin-left: 2%;   
+}
+.border{
+    border-left: 10px solid;
+    border-radius: 2px;
+    border-image: linear-gradient(rgba(202, 89, 89, 0.582) , rgba(243, 234, 105, 0.932));
+    border-image-slice: 1;
+    margin-left: 4%;
+}
+.p-font{
+    font-size: 25px;
+    margin-left: 4%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(73, 97, 141, 0.438), rgba(85, 212, 221, 0.637));
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-left: 6%;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 4%;
+}
+.half-width img{
+    width: 50%;
+}
+.font-centr{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 4%;
+}
+.center-text{
+    color: rgb(24, 26, 21)
+}
+.center-text2{
+    color: rgba(255, 115, 0, 0.959);
+}
+h2{
+    font-size: 40px;
+}
+.mid-font{
+    font-size: 25px;
+}
+#background img{
+    width: 30%
+}
+.mission{
+    border-radius: 4px;
+    background-color: rgb(173, 199, 175);
+    width: 30%;
+    padding: 2%;
+    margin: 2%;
+
+    
+}
+#background1 img{
+    width: 30%
+}
+#background2 img{
+    width: 30%
+}
+#background{
+    border-radius: 4px;
+    background-color: rgb(173, 199, 175);
+    width: 30%;
+    padding: 2%;
+    margin:2% 0% 0% 6%;
+  
+}
+#background1{
+    border-radius: 4px;
+    background-color: rgb(211, 176, 228);
+    width: 30%;
+    padding: 2%;
+    margin:2% 0% 0% 2%;
+}
+#background2{
+    
+    border-radius: 4px;
+    background-color: rgb(159, 199, 209);
+    width: 30%;
+    padding: 2%;
+    margin:2% 6% 0% 2%;
+}
+.thirdpart img{
+    width: 50%;
+    padding-left: 5%;
+    margin:8% 2% 2% 30%;
+}
+.thirdpart1{
+    width: 50%;
+    padding-left: 5%;
+    margin:2% 40% 2% 2% ;
+}
+h3{
+    
+    font-size: 40px;
+}
+.third-font{
+    font-size: 20px;
+}
+
+.mid-banner{
+    background-image:url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position-x: 8%;
+    background-position-y: 45%;
+}
+.fourthpart1 img{
+    width: 50%;
+    margin: 6% ;
+    padding-left: 5%;
+    
+}
+.fourthpart{
+    width: 50%;
+    margin:  2% 8%;
+    padding-left: 5%;
+
+}
+h4{
+    
+    font-size: 40px;
+}
+.fourth-font{
+    font-size: 20px;
+}
+
+.fourth-banner{
+    background-image:url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position-x: 83%;
+    background-position-y: 99%;
+}
+.textcenter{
+    text-align: center;
+    margin: 6% 0% 0% 0%;
+    
+}
+.footer-color{
+    background-color: rgb(125, 126, 131);
+}
+.footer-text{
+    font-size: 50px;
+    color: rgb(142, 238, 238);
+    padding: 4% 0% 0% 0%;
+    }
+.footer-text1{ 
+    font-size: 50px;
+    color:rgb(140, 233, 182);
+    padding: 4% 0% 0% 1%;
+    
+    }
+.footertext-p{
+    font-size: 30px;
+    padding: 0% 0% 2% 0%;
+}
+
+
